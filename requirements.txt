@@ -1,1 +1,2 @@
-1. I would collect data and then visually present it through Java
+1. I would collect data and then visually present it through Java.
+2. It's divided into two parts and worth 50% of module. 
