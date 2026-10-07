@@ -1,0 +1,1 @@
+1. I would collect data and then visually present it through Java
